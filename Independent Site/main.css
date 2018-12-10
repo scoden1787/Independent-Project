@@ -1,0 +1,31 @@
+@charset "utf-8";
+#link text {
+	background-color: #C12629;
+}
+#link {
+	background-color: #FFF500;
+}
+#textbox3 h1 span {
+
+}
+#navbar1 {
+	background-color: #2AFF00;
+	width: 705px;
+	height: 60px;
+}
+
+
+
+@media screen{
+#SKIMASK h1 {
+	background-color: #F8FF00;
+}
+
+}
+
+@media screen{
+#textbox3 {
+	background-color: #F0FF00;
+}
+
+}
